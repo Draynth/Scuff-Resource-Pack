@@ -14,3 +14,4 @@
 
 ## Step 3
 1. Enable the Resource packs plugin
+2. If you normally have the "Interface styles" plugin enabled you may need to disable it
