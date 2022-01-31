@@ -1,7 +1,8 @@
 # Scuff-Resource-Pack
 
 ## Step 1
-1. Download the *"scuff_resource_pack.zip*
+1. Download the *"scuff_resource_pack.zip* <br>
+![Download](https://user-images.githubusercontent.com/25776095/151884154-94942512-3c58-4d3f-af4f-6d44fb67b259.png)
 2. Extract the zip folder to somewhere on your computer
 
 ## Step 2
